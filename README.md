@@ -1,6 +1,12 @@
 <details>
 <summary>CISA Exam</summary>
+
+<ul>
+<li>Complete study timeline: <br>
+<img src="https://user-images.githubusercontent.com/46510959/56867699-f6a86300-69ad-11e9-9384-624bc68fda34.png"></li>
  
+<li>Current Gantt Chart of progress: <br>
+<img src="https://user-images.githubusercontent.com/46510959/56867691-e2646600-69ad-11e9-93b0-a538f7fe0eaf.png"></li>
 
 
 </details>
