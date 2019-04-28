@@ -1,29 +1,75 @@
-<h2>Potential Career</h2>
+<details>
+<summary>CISA Exam</summary>
+ 
 
 
+</details>
+<br><br>
 
-<h2>Usefulness of Tech Skills</h2>
+<details>
+<summary>Potential Career</summary>
+ 
+ 
 
-
-
-<h2>Internship Experiences</h2>
-
-
-
-<h2>The Future of Accounting</h2>
-
-
-
-<h2>Additional Tech Skills</h2>
+</details>
+<br><br>
 
 
+<details>
+<summary>Application of Tech Skills</summary>
+ 
+ 
 
-<h2>The Need for IT Security</h2>
+</details>
+<br><br>
 
 
+<details>
+<summary>Internship Experience</summary>
+ 
 
-<h2>Using My CIS Major</h2>
+
+</details>
+<br><br>
 
 
+<details>
+<summary>The Future of Accounting</summary>
+ 
 
-<h2>Commentary on the Tech Training</h2>
+</details>
+<br><br>
+
+
+<details>
+<summary>Additional Tech Skills</summary>
+ 
+
+
+</details>
+<br><br>
+
+
+<details>
+<summary>The Need for IT Security</summary>
+ 
+ 
+
+</details>
+<br><br>
+
+
+<details>
+<summary>Using My CIS Major</summary>
+ 
+
+</details>
+<br><br>
+
+
+<details>
+<summary>Commentary on Tech Trainings</summary>
+ 
+
+
+</details>
