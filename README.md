@@ -15,23 +15,6 @@
 </details>
 <br><br>
 
-<details>
-<summary>Potential Career</summary>
- 
- 
-
-</details>
-<br><br>
-
-
-<details>
-<summary>Application of Tech Skills</summary>
- 
- 
-
-</details>
-<br><br>
-
 
 <details>
 <summary>Internship Experience</summary>
@@ -50,37 +33,29 @@ Through the required accounting curriculum, there is opportunity to work in a sp
 </details>
 <br><br>
 
+<details>
+<summary>Potential Career</summary>
+The career that I will be beginning in August is that of IT auditing.  IT auditors are most commonly certified as CISAs, but it is also not unusual to have CPA certifications as well.  I am hoping to obtain both within the first year of starting my position.  IT auditing is most generally for the purpose of testing controls related to a client's IT environment and processes to ensure that the client is compliant with SOX regulations.  The SOX act was initiated following several impactful financial frauds at the turn of the millenium.  For all public companies, SOX requires that specific controls are implemented and maintained by the clients as well as certified by external auditors so that financial statement users can be confident that the statements are accurately represented.  In the IT realm, more and more of companies' transactions are taking place online and are stored digitally or in the cloud.  This requires controls that ensure the appropriate individuals have access, authority to change permissions/features, and secure storage and backups of information.  Common domains that classify IT controls include change management, access, backup and recovery, and computer operations.
+ 
+
+</details>
+<br><br>
+
 
 <details>
 <summary>The Future of Accounting</summary>
- 
+One of the important concepts stressed throughout my accounting coursework was the need to be proficient in financial concepts and maintain an attitude of innovation and efficiency.  Many people are worried that with the rise in technology in all areas of life, jobs for accountants may slowly be replaced by computers and/or robots, until they are completely eliminated.  However, this is not entirely the case.  As technology is most useful when it first replaces the mundane jobs that do not require creative thought, accountants must ensure that they provide more through their positions than completion of simple and repetitive tasks.  After all, most of the existing technology that is currently used in the accounting and auditing professions requires extensive training and repetition in order to learn patterns in the data. As an example, one major auditing firm is using a data mining algorithm to examine online credit card transactions to predict which are most likely to result from fraud. Other auditing technologies can be used to select samples for testing, examine transactional data, and identify areas of specific risk in a client's financial data.  What humans can add to the auditing process is creative thought and decision-making that is not as easily trained or data driven. They can also add the personal interaction and consulting services that are the most valuable to client relationships.  In the future, it is possible that much of what accountants currently do could be replaced; however, the individuals that are most knowledgeable about the financial statements or IT systems and understand how the technology should be programmed and utilized will still be extremely useful.
 
 </details>
 <br><br>
-
-
-<details>
-<summary>Additional Tech Skills</summary>
- 
-
-
-</details>
-<br><br>
-
-
-<details>
-<summary>The Need for IT Security</summary>
- 
- 
-
-</details>
-<br><br>
-
 
 
 <details>
 <summary>Commentary on Tech Trainings</summary>
+The first training for GitHub I found to be extremely useful.  A majority of the modules had practical applications to personal use of Github as well as responsibilities through a job.  I do not have experience using Github or coding at an internship thus far, but I can understand how the commits and branches would be utilized in a practical setting.  Even the assignment to make a tech resume has further increased my proficiency using Github, and I have learned additional functionalities that were not required in the training modules.  I would recommend that this continues to be required for future classes, as I believe is the plan.
  
+I found the Linux and AWS trainings to be the most difficult, as they were more technically dense than Github or PowerBI.  However, having basic knowledge gained from the trainings will undoubtedly be helpful, even if not used in future positions.  AWS will only become increasingly popular in the future, and the training provided the best method for understanding all of its complex features.  I enjoyed that there were methods by which to follow along and apply the knowledge hands-on, and quizzes to check our knowledge.  While the videos can sometimes be dull or difficult to pay attention to, they were helpful to reference when I had difficulty with any of the hands-on activities.
 
-
+My favorite training this semester was the PowerBI.  I am especially interested in data visualization and found the PowerBI training to be the most entertaining and useful.  Overall, I did not have much trouble with any of the trainings - some features would not work the first time or two, but only required a few minutes of troubleshooting to fix the problem.  Each training took approximately the time that was listed and had all required features available to complete the steps. I did not complete the PowerShell training but may in the future to be better prepared for client jobs that may involve it.
 </details>
+
